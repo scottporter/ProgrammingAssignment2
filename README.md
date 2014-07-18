@@ -103,7 +103,3 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
-
-Can I commit from RStudio?
-
-Can I still commit?
